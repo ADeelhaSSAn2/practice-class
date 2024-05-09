@@ -1,0 +1,15 @@
+body{
+    background: fixed;
+    background-color: blanchedalmond;
+}
+h1{
+    color: blueviolet;
+    cursor: pointer;
+}
+button{
+    border-radius: 2rem;
+    border: 2px solid blue;
+    width: 4rem;
+    height: 2rem;
+    cursor: pointer;
+}
